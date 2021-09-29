@@ -1,4 +1,4 @@
-# React-desafio-8
+# React-desafio-9
 
 _Proyecto de un sitio de compras de una confiteria_
 
@@ -16,7 +16,7 @@ Realicé el despliegue gratuito de la plataforma Netlify :)
 
 ## Pruebas
 
-Utilizá la app como un sitio de compras ! tenes diferentes items, podes filtrarlos, ver los detalles de los mismos uno por uno, podes ver el contador para agregar los productos al carrito, y proximamnete, verlos en el mismo !
+Utilizá la app como un sitio de compras ! tenes diferentes items, podes filtrarlos, ver los detalles de los mismos uno por uno, podes ver el contador para agregar los productos al carrito, ya podes ir al carrito, eliminar item por item, vaciar el carrito, ver los items que hay en el mismo de cualquier lado de la pagina !!
 
 
 ## Construido con
@@ -31,7 +31,7 @@ Utilizá la app como un sitio de compras ! tenes diferentes items, podes filtrar
 
 ## Versionado
 
-Este repositorio corresponde a el desafio numero 6 del curso de react de coderhouse!
+Este repositorio corresponde a el desafio numero 9 del curso de react de coderhouse!
 
 ## Autor
 
